@@ -1,0 +1,22 @@
+@import "_normalize.css";
+@import "_fonts.css";
+/*@import "_variables.css";
+@import "_vendor.css";*/
+@import "_global.css";
+/*@import "_overall.css";*/
+
+
+
+
+@import "./components/_header.css";
+@import "./components/_nature.css";
+@import "./components/_cozy.css";
+@import "./components/_cabin.css";
+@import "./components/_food.css";
+@import "./components/_rooms.css";
+@import "./components/_get.css";
+@import "./components/_happy.css";
+@import "./components/_footer.css";
+
+
+@import "_media.css";

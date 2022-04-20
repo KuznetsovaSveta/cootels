@@ -1,0 +1,87 @@
+.footer {
+    background-color: #0B265A;
+    padding: 120px 0;
+}
+
+.wrapper-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__left {
+}
+
+.footer__logo {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-bottom: 13px;
+}
+
+.footer__text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #D9DBDE;
+    max-width: 186px;
+    margin-bottom: 36px;
+}
+
+.footer__social-menu{
+    display: flex;
+}
+
+.footer__social-item {
+    margin-right: 24px;
+}
+
+.footer__social-item:last-child{
+    margin-right: 0;
+}
+
+
+
+.footer__right {
+    display: flex;
+}
+
+.footer__menu {
+}
+
+.footer__menu-rooms {
+    margin-right: 100px;
+}
+
+.footer__title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.footer__item {
+    margin-bottom: 24px;
+}
+
+.footer__link {
+    font-size: 16px;
+    line-height: 19px;
+    color: #D9DBDE;
+    transition: 0.2s all linear;
+}
+
+.footer__link:hover{
+    color:#5791b7;
+}
+
+.footer__menu-reservation{
+    margin-right: 141px;
+}
+
+.footer__menu-contact{
+    margin-right: 64px;
+}

@@ -1,0 +1,73 @@
+.rooms {
+    padding: 80px 0;
+}
+
+.wrapper-rooms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rooms__title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: -0.01em;
+    margin-bottom: 24px;
+}
+
+.rooms__text {
+    display: block;
+    max-width: 588px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.rooms__button {
+    padding: 16px 32px;
+    margin-bottom: 88px;
+}
+
+.rooms__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 24px;
+}
+
+.rooms__card {
+}
+
+.many__card-img {
+    margin-bottom: 29px;
+    /*width: 100%;*/
+    /*max-width: 384px;*/
+    /*max-height: 489px;*/
+}
+
+.rooms__card-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.rooms__card-text {
+    max-width: 384px;
+    margin-bottom: 35px;
+}
+
+.rooms__card-link {
+    position: relative;
+}
+
+.rooms__card-link:after{
+    content: url("../../img/rooms/icon_line/Arrow_Right.svg");
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: -33px;
+    top: 0;
+}

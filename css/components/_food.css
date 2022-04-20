@@ -1,0 +1,17 @@
+.food{
+    padding-bottom: 76px;
+}
+
+.wrapper-food {
+    justify-content: space-between;
+}
+
+.food__title {
+    margin-top: 113px;
+    margin-bottom: 24px;
+}
+
+.food__text {
+    max-width: 584px;
+    margin-right: 106px;
+}

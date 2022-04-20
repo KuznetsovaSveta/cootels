@@ -1,0 +1,20 @@
+.cabin {
+    padding: 80px 0 28px 0;
+}
+
+.wrapper-cabin {
+    justify-content: space-between;
+}
+
+.cabin__title {
+    margin-top: 113px;
+    margin-bottom: 24px;
+}
+
+.cabin__text {
+    max-width: 584px;
+}
+
+.cabin__right {
+    margin-right: 106px;
+}

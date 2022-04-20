@@ -1,0 +1,29 @@
+.cozy {
+    padding: 76px 0;
+}
+
+.wrapper-cozy {
+    justify-content: space-between;
+}
+
+.cozy__title {
+    margin-top: 105px;
+    max-width: 690px;
+    margin-bottom: 24px;
+}
+
+.cozy__text {
+    max-width: 580px;
+}
+
+.cozy__text-first{
+    margin-bottom: 17px;
+}
+
+.cozy__text-second{
+    margin-bottom: 32px;
+}
+
+.cozy__button {
+    padding: 16px 32px;
+}
